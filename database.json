@@ -1,591 +1,119 @@
 [
-    {
-        key: "cho cac phuong trinh hoa hoc sau",
-        ans: "SO2 vừa thể hiện tính oxi hoá, vừa thể hiện tính khử."
-    },
-    {
-        key: "cong thuc phan tu cho biet thong tin",
-        ans: "Thành phần nguyên tố và số lượng nguyên tử của mỗi nguyên tố."
-    },
-    {
-        key: "he phan ung sau o trang thai",
-        ans: "[HI^2] / [HI2].[I2]"
-    },
-    {
-        key: "phan ung nao sau day la sai",
-        ans: "Fe2O3 + 4H2SO4 đặc → Fe2(SO4)3 + SO2 + 4H2O."
-    },
-    {
-        key: "chuan do 100,0 mL",
-        ans: "8,91 mL"
-    },
-    {
-        key: "cach lam nao sau day la phuong phap ket tinh",
-        ans: "Thu đường kính từ nước mía."
-    },
-    {
-        key: "theo thuyet cau tao hoa hoc",
-        ans: "CH3-O-CH-CH3."
-    },
-    {
-        key: "mua acid la hien tuong nuoc mua co",
-        ans: "SO2 và NO2"
-    },
-    {
-        key: "hinh sau bieu thi su phan li",
-        ans: "Chiều giảm dần lực acid của các HA: HY > HZ > HX"
-    },
-    {
-        key: "pho hong ngoai la",
-        ans: "cấu tạo hợp chất hữu cơ."
-    },
-    {
-        key: "theo thuyet bronsted",
-        ans: "(2), (5)"
-    },
-    {
-        key: "cho can bang",
-        ans: "Phản ứng nghịch thu nhiệt, cân bằng dịch chuyển theo chiều thuận khi giảm nhiệt độ."
-    },
-    {
-        key: "co bao nhieu phan ung trong do",
-        ans: "2"
-    },
-    {
-        key: "mot ban hoc sinh thu khi",
-        ans: "Nước vôi."
-    },
-    {
-        key: "ung dung nao sau day khong phai cua sulfur",
-        ans: "lưu hóa cao su."
-    },
-    {
-        key: "hoc sinh a tien hanh thi nghiem dot chay",
-        ans: "Sản phẩm tạo thành sau bước 2 là muối iron (III) sulfide."
-    },
-    {
-        key: "hop chat nay co bao nhieu nguyen tu",
-        ans: "7,14"
-    },
-    {
-        key: "cho day cac chat",
-        ans: "4"
-    },
-    {
-        key: "co 4 dung dich",
-        ans: "C2H5OH < CH3COOH < NaCl < K2SO4."
-    },
-    {
-        key: "phan ung chuyen hoa hydrogen sulfide trong khi thien nhien",
-        ans: "7,06 gam"
-    },
-    {
-        key: "trong so cac chat sau",
-        ans: "6"
-    },
-    {
-        key: "phat bieu nao duoi day khong dung",
-        ans: "Hiệu suất phản ứng thuận nghịch có thể đạt đến 100%"
-    },
-    {
-        key: "trong phan ung nao sau day su tang ap suat se dan toi can bang chuyen dich sang trai",
-        ans: "CaCO3(s) ⇌ CaO(s) + CO2(g)"
-    },
-    {
-        key: "hang so can bang kc cua mot phan ung phu thuoc vao yeu to nao",
-        ans: "Nhiệt độ"
-    },
-    {
-        key: "phuong trinh dien li nao sau day bieu dien khong dung",
-        ans: "HF ⟶ H+ + F-"
-    },
-    {
-        key: "dung dich chat nao sau day co cung nong do dan dien tot nhat",
-        ans: "K2SO4"
-    },
-    {
-        key: "do ph cua mot coc nuoc chanh duoc gia tri ph bang 24 nhan dinh nao sau day khong dung",
-        ans: "Nồng độ ion H+ của nước chanh là 0,24 mol/L" // Chọn câu sai
-    },
-    {
-        key: "khi lam thi nghiem voi hno3 dac nong trong ong nghiem thuong sinh ra khi no2 rat doc",
-        ans: "Xút (NaOH)"
-    },
-    {
-        key: "phan ung nao sau day duoc dung de dieu che so2 trong cong nghiep",
-        ans: "4FeS2 + 11O2 -> 2Fe2O3 + 8SO2"
-    },
-    {
-        key: "cach pha loang dung dich h2so4 dac nao sau day dung",
-        ans: "Rót từ từ acid vào nước và khuấy đều"
-    },
-    {
-        key: "cho so do phan ung fe h2so4 fe2so43 so2 h2o so phan tu h2so4 bi khu",
-        ans: "3 và 3"
-    },
-    {
-        key: "nhom chat nao duoi day deu la dan xuat cua hydrocarbon",
-        ans: "CH2Cl2, CH2Br−CH2Br, CHCl3, CH3COOCH3..."
-    },
-    {
-        key: "phuong phap dung de du doan su co mat cua cac nhom chuc",
-        ans: "phương pháp phổ hồng ngoại"
-    },
-    {
-        key: "phuong phap nao sau day duoc ung dung de ngam ruou thuoc",
-        ans: "Chiết lỏng – rắn"
-    },
-    {
-        key: "phat bieu nao sau day dung cong thuc don gian nhat cua hop chat huu co",
-        ans: "Công thức biểu thị tỉ lệ tối giản về số nguyên tử..."
-    },
-    {
-        key: "sucrose la loai duong duoc tao thanh tu mot glucose va fructose",
-        ans: "Công thức đơn giản nhất của sucrose là CH3O"
-    },
-    {
-        key: "cap chat nao duoi day la dong dang cua nhau",
-        ans: "CH3OH và CH3CH2CH2CH2OH"
-    },
-    {
-        key: "nhan dinh nao sau day khong dung",
-        ans: "CH3CH=O và CH3COCH3 là những aldehyde" // Chọn câu sai
-    },
-    {
-        key: "phat bieu nao sau day ve phan ung o trang thai can bang la khong dung",
-        ans: "Nồng độ của các chất phản ứng bằng nồng độ của các chất sản phẩm."
-    },
-    {
-        key: "doi voi phan ung sau can bang se bi anh huong nhu the nao khi tang nhiet do",
-        ans: "Cân bằng chuyển dịch sang trái."
-    },
-    {
-        key: "cac dung dich acid base muoi dan dien duoc la do",
-        ans: "các ion trái dấu."
-    },
-    {
-        key: "so chat thuoc loai chat dien li manh la",
-        ans: "5" // HClO4, HNO3, NaOH, NaCl, CuSO4
-    },
-    {
-        key: "trong cac dung dich co cung nong do 01 m sau day dung dich nao co ph cao nhat",
-        ans: "NaOH."
-    },
-    {
-        key: "mot mau nuoc thai cua nha may san xuat co",
-        ans: "2,8 gam"
-    },
-    {
-        key: "sulfur the hien tinh oxi hoa khi tac dung voi chat nao duoi day",
-        ans: "Al." // Tạo Al2S3
-    },
-    {
-        key: "nho dung dich h2so4 98 vao coc dung duong saccharose",
-        ans: "Đường hoá màu đen."
-    },
-    {
-        key: "dan khi so2 vao 100 ml dung dich kmno4 002m",
-        ans: "124 mL."
-    },
-    {
-        key: "vi sao co the dua vao nhom chuc de phan loai cac hop chat huu co",
-        ans: "Vì nhóm chức gây ra các phản ứng hoá học đặc trưng cho phân tử hữu cơ."
-    },
-    {
-        key: "so phat bieu dung la", // Câu đếm phát biểu hữu cơ
-        ans: "5"
-    },
-    {
-        key: "phuong phap tach va tinh che nao sau day khong dung cach lam",
-        ans: "Thu tinh dầu cam từ vỏ cam là kết tinh"
-    },
-    {
-        key: "khong the cho ta biet",
-        ans: "Cấu trúc phân tử hợp chất hữu cơ."
-    },
-    {
-        key: "so nguyen tu h trong hop chat huu co nao sau day khong dung",
-        ans: "C2H8."
-    },
-    {
-        key: "cau tao hoa hoc la giua cac nguyen tu trong phan tu",
-        ans: "thứ tự liên kết."
-    },
-    {
-        key: "nhung cap chat la dong phan cua nhau",
-        ans: "(1) và (2); (3) và (4)."
-    },
-    // Đề 3 bổ sung
-    {
-        key: "bieu thuc hang so can bang kc cua phan ung la", // 2C + O2 <=> 2CO
-        ans: "Kc = [CO]^2 / [O2]"
-    },
-    {
-        key: "yeu to nao sau day khong lam dich chuyen can bang hoa hoc tren", // Haber
-        ans: "Thêm xúc tác."
-    },
-    {
-        key: "khi x la chat khi khong mau khong mui nhe hon khong khi", // Snack
-        ans: "N2."
-    },
-    {
-        key: "hien tuong phu duong la mot bieu hien cua moi truong ao ho",
-        ans: "Nitrogen, phosphorus"
-    },
-    {
-        key: "kim loai nao sau day bi thu dong trong dung dich hno3 dac nguoi",
-        ans: "Fe." // Hoặc Al, Cr
-    },
-    {
-        key: "sulfur phan ung voi chat nao sau day the hien tinh khu",
-        ans: "Khí oxygen (O2)."
-    },
-    {
-        key: "cach xu ly thuy ngan khi nhiet ke thuy ngan khong may bi vo",
-        ans: "rắc bột sulfur lên thủy ngân rồi gom lại."
-    },
-    {
-        key: "phat bieu nao sau day dung ve so2",
-        ans: "SO2 vừa thể hiện tính oxi hoá, vừa thể hiện tính khử."
-    },
-    {
-        key: "hien tuong dung nham xanh",
-        ans: "Sulfur."
-    },
-    {
-        key: "hay cho biet chat nao sau day la dong phan loai nhom chuc voi ethanol",
-        ans: "Dimethyl ether (CH3-O-CH3)."
-    },
-    {
-        key: "hop chat huu co x co cong thuc cau tao nhu sau",
-        ans: "Phân tử X có chứa nhóm chức -COOH."
-    },
-    {
-        key: "nguoi ta da su dung cac ki thuat tinh che nao de lay duoc curcumin tu cu nghe",
-        ans: "Chiết và kết tinh."
-    },
-    {
-        key: "day nao gom cac chat la dong dang cua nhau",
-        ans: "CH3-CH2-OH và CH3-CH2-CH2-OH."
-    },
-    {
-        key: "phuong phap nay duoc goi la", // Muối ăn từ nước biển
-        ans: "kết tinh."
-    },
-    {
-        key: "de tach dau va nuoc bien ra khoi nhau nguoi ta dung phuong phap",
-        ans: "Chiết lỏng - lỏng."
-    },
-    {
-        key: "khi so2 do cac nha may sinh ra la nguyen nhan quan trong nhat", // Bài tập bảng số liệu SO2
-        ans: "X." // X=0.036 > 0.026
-    },
-    {
-        key: "day chat nao sau day la hop chat huu co",
-        ans: "C2H4, CH4, C2H6O, C3H9N."
-    },
-    {
-        key: "dua vao pho ir cua hop chat x co cong thuc ch3chohch3",
-        ans: "A"
-    },
-    {
-        key: "phuong phap chiet duoc thuc hien theo nguyen tac",
-        ans: "Mỗi chất có sự phân bố khác nhau trong hai môi trường không hoà tan vào nhau."
-    },
-    {
-        key: "phan tu khoi cua benzaldehyde la",
-        ans: "106."
-    },
-    {
-        key: "cac chat dong dang cua nhau la", // C6H5OH...
-        ans: "Y, T (C6H5CH2OH và C6H5CH2CH2OH)" // Lưu ý: Phenol và Alcohol thơm ko cùng dãy
-    },
-    {
-        key: "hai chat", // Este và Axit
-        type: "TF",
-        ans: [
-            "Nếu có hình:",
-            "Công thức phân tử giống nhau nhưng công thức cấu tạo khác nhau.",
-            "",
-            "Không có hình:",
-            "SO2 và NO2"
-        ]
-    },
-
-    // --- PHẦN II: ĐÚNG SAI (Chỉ lưu các ý ĐÚNG hoặc trạng thái) ---
-    // Lưu ý: Key là nội dung câu dẫn chính
-    {
-        key: "chon cau dung",
-        type: "TF",
-        ans: [
-            "Nếu TN:",
-            "Dung dịch có pH >7 làm quỳ tím hoá xanh.",
-            "Nếu Đ/S",
-            "- Cùng công thức phân tử, các nguyên tử liên kết với nhau theo đúng hóa trị nhưng thứ tự liên kết giữa các nguyên tử khác nhau sẽ tạo ra hợp chất khác nhau. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "khi ammonia co cac dac diem sau",
-        type: "TF",
-        ans: [
-            "- Trong điều kiện thường, NH3 là khí không màu, mùi khai. (ĐÚNG)",
-            "- Liên kết giữa N và 3 nguyên tử H là liên kết cộng hoá trị có cực. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "nguoi ta thuong dung cac binh thep de dung va chuyen cho sulfuric acid dac",
-        type: "TF",
-        ans: [
-            "- Sulfuric acid đặc không phản ứng với iron ở nhiệt độ thường. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "chiet tinh dau tram",
-        type: "TF",
-        ans: [
-            "- Chiết tinh dầu áp dụng phương pháp chiết lỏng – lỏng. (ĐÚNG)",
-            "- Tách lấy chất hữu cơ khi nó ở dạng nhũ tương trong nước. (ĐÚNG)",
-            "- Tinh dầu sả, tinh dầu bưởi cũng được thực hiện tương tự như tinh dầu tràm. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "cho cac chat sau ch3oh methanol ch3ch2oh a",
-        type: "TF",
-        ans: [
-            "- HOCH2CH2CH2OH thuộc dãy đồng đẳng của (h). (ĐÚNG)", // h là diol
-            "- Các chất (a), (b), (c), (d), (e), (g) thuộc dãy đồng đẳng của methanol."
-        ]
-    },
-    // Đề 2 T/F
-    {
-        key: "o dieu kien thuong ammonia la chat khi khong mau mui khai",
-        type: "TF",
-        ans: [
-            "- Do ammonia dễ hoá lỏng hơn nên khi làm lạnh hỗn hợp sẽ tách được ammonia lỏng... (ĐÚNG)"
-        ]
-    },
-    {
-        key: "sulfuric acid h2so4 duoc menh danh la vua",
-        type: "TF",
-        ans: [
-            "- Sulfuric acid đặc là một acid mạnh, có tính oxi hóa mạnh và tính hóa nước. (ĐÚNG)",
-            "- Các khí sinh ra trong thí nghiệm phản ứng của saccharose... gồm SO2 và CO2. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "them hexane c6h14 vao dung dich iodine trong nuoc",
-        type: "TF",
-        ans: [
-            "- Sử dụng phương pháp chiết lỏng – lỏng để thu lấy iodine... (ĐÚNG)",
-            "- Nồng độ iodine trong nước thấp hơn nồng độ iodine trong hexane. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "buta13diene la mot hydrocarbon quan trong",
-        type: "TF",
-        ans: [
-            "- Buta-1,3-diene là một hydrocarbon không no, mạch hở. (ĐÚNG)",
-            "- CTCT của buta-1,3-diene là CH2=CH-CH=CH2. (ĐÚNG)",
-            "- CTPT của buta-1,3-diene là C4H6. (ĐÚNG)"
-        ]
-    },
-    // Đề 3 T/F
-    {
-        key: "menthol la hop chat huu co duoc tim thay trong cay bac ha",
-        type: "TF",
-        ans: [
-            "- Công thức phân tử của menthol là C10H20O. (ĐÚNG)",
-            "- Thành phần % khối lượng của O trong phân tử menthol là 10,256%. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "sulfuric acid la hoa chat rat quan trong co hoat tinh hoa hoc rat manh",
-        type: "TF",
-        ans: [
-            "- Cho thanh Fe (iron) vào dung dịch H2SO4 loãng, iron tan ra, sủi bọt khí (ĐÚNG)",
-            "- Cho từng giọt sulfuric acid đặc vào đường saccharose... (ĐÚNG)"
-        ]
-    },
-    {
-        key: "cac acid nhu acetic acid trong giam an",
-        type: "TF",
-        ans: [
-            "- Acetic acid là chất điện li yếu. (ĐÚNG)",
-            "- Dung dịch acetic acid có pH < 7. (ĐÚNG)",
-            "!!!ĐÁP ÁN AZOTA là SAI!!! - - ... Để khử sạch ammonia có thể dùng acetic acid... (ĐÚNG)"
-        ]
-    },
-    {
-        key: "chung cat loi cuon hoi nuoc cay huong nhu", // Bài phổ MS chất X
-        type: "TF",
-        ans: [
-            "- Tổng số nguyên tử trong phân tử X là 24. (ĐÚNG)" // C10H12O2 = 10+12+2=24?? Cần check lại CTPT từ %C,H. C=73.17 -> C10H12O2 (M=164). 164 trên phổ MS không? Phổ MS peak lớn nhất là 164 -> M=164. C10H12O2 = 120+12+32=164. Tổng nguyên tử = 24. Đúng.
-        ]
-    },
-    // Đề 4 T/F
-    {
-        key: "x la muoi khi tac dung voi dung dich naoh du sinh khi mui khai",
-        type: "TF",
-        ans: [
-            "- (NH4)2SO4. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "cho cac phat bieu sau", // Đường, tinh dầu
-        type: "TF",
-        ans: [
-            "- Sử dụng phương pháp kết tinh để làm đường cát... (ĐÚNG)",
-            "- Để thu được tinh dầu sả người ta dùng phương pháp chưng cất lôi cuốn hơi nước. (ĐÚNG)",
-            "- Để tách các chất lỏng có nhiệt độ sôi khác nhau nhiều, người ta dùng cách chưng cất thường. (ĐÚNG)",
-            "- Mật ong để lâu thường có những hạt rắn xuất hiện ở đáy chai do có sự kết tinh đường. (ĐÚNG)",
-            "Hoặc",
-            "- Đường trắng tinh khiết hơn đường đỏ. (ĐÚNG)",
-            "- Tinh chế đường đỏ thành đường trắng là phương pháp kết tinh. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "mentol c10h20o va menton c10h18o chung deu co trong tinh dau bac ha",
-        type: "TF",
-        ans: [
-            "- Mentol có cấu tạo mạch vòng. (ĐÚNG)",
-            "- Mentol và menton đều có công thức phân tử trùng với công thức thực nghiệm."
-        ]
-    },
-    // Đề 5 T/F
-    {
-        key: "cho hop chat x co cong thuc cau tao dang khung phan tu nhu sau", // Alcohol vòng
-        type: "TF",
-        ans: [
-            "- Công thức phân tử của (X) là C4H8O.",
-            "- % khối lượng của nguyên tử H trong (X) là 11,1%."
-        ]
-    },
-    {
-        key: "cho so do mo ta qua trinh san xuat loai phan bon z",
-        type: "TF",
-        ans: [
-            "- (Z) thuộc loại phân đạm. (ĐÚNG)"
-        ]
-    },
-    {
-        key: "trai cay tuoi cat san va dong goi co thoi han su dung ngan",
-        type: "TF",
-        ans: [
-            "- Loại rau quả tươi ở trong bảng được đóng gói với hỗn hợp khí có thành phần N2 giống với không khí nhất là cần tây. (ĐÚNG - Cần tây 11% O2, 9% CO2 -> 80% N2. KK ~78% N2)"
-        ]
-    },
-    {
-        key: "cho qua trinh tinh che duong do thanh duong trang",
-        type: "TF",
-        ans: [
-            "- Đường trắng tinh khiết hơn đường đỏ. (ĐÚNG)",
-            "- Tinh chế đường đỏ thành đường trắng là phương pháp kết tinh. (ĐÚNG)"
-        ]
-    },
-
-    // --- PHẦN III: TRẢ LỜI NGẮN (Điền số/chữ) ---
-    {
-        key: "co bao nhieu chat phan ung duoc voi nh3",
-        type: "SA",
-        ans: "5"
-    },
-    {
-        key: "phan tram khoi luong mg trong hon hop x la bao nhieu",
-        type: "SA",
-        ans: "60"
-    },
-    {
-        key: "cong thuc don gian nhat cua glyoxal co bao nhieu nguyen tu h",
-        type: "SA",
-        ans: "1"
-    },
-    {
-        key: "so dong phan cau tao mach ho ung voi cong thuc phan tu c5h12 la",
-        type: "SA",
-        ans: "3"
-    },
-    // Đề 2 SA
-    {
-        key: "hieu suat phan ung dat 25 thi the tich nh3 thu duoc",
-        type: "SA",
-        ans: "2,48"
-    },
-    {
-        key: "gia tri cua v la lam tron ket qua den hang phan muoi",
-        type: "SA",
-        ans: "9,9"
-    },
-    {
-        key: "tong so nguyen tu trong phan tu cua vitamin c la",
-        type: "SA",
-        ans: "20"
-    },
-    {
-        key: "so lien ket doi trong phan tu licopen la",
-        type: "SA",
-        ans: "13"
-    },
-    // Đề 3 SA
-    {
-        key: "tinh the tich ml dung dich h2so4 98",
-        type: "SA",
-        ans: "1,36"
-    },
-    {
-        key: "tong so nguyen tu c h o trong 1 phan tu diethyl ether la bao nhieu",
-        type: "SA",
-        ans: "15"
-    },
-    {
-        key: "so hop chat huu co thuoc loai dan xuat cua hydrocarbon la bao nhieu",
-        type: "SA",
-        ans: "4"
-    },
-    {
-        key: "gia tri cua v la lam tron ket qua thu duoc den hang phan tram",
-        type: "SA",
-        ans: "250"
-    },
-    // Đề 4 SA
-    {
-        key: "cho dung dich naoh du vao 200 ml dung dich nh4no3 1m",
-        type: "SA",
-        ans: "4,96"
-    },
-    {
-        key: "cho 2479 lit khi dkc so2 tac dung vua du voi h2s",
-        type: "SA",
-        ans: "9,6"
-    },
-    {
-        key: "tong so nguyen tu co trong mot phan tu formic acid la bao nhieu",
-        type: "SA",
-        ans: "4"
-    },
-    {
-        key: "phan tram khoi luong cua nguyen tu oxygen trong safrol la bao nhieu",
-        type: "SA",
-        ans: "19,8"
-    },
-    // Đề 5 SA
-    {
-        key: "tu 10m3 hon hop n2 va h2 ti le the tich 14",
-        type: "SA",
-        ans: "1,4"
-    },
-    {
-        key: "cho 77 gam hon hop gom mg va zn tac dung vua du voi mot luong vua du voi dung dich h2so4",
-        type: "SA",
-        ans: "66,2"
-    },
-    {
-        key: "phan tu khoi cua x la bao nhieu", // Cứ 3 phần C lại có 1 phần H...
-        type: "SA",
-        ans: "76"
-    },
-    {
-        key: "tong so nguyen tu trong phan tu cua geraniol la bao nhieu",
-        type: "SA",
-        ans: "29"
-    }
+  { "key": "cho cac phuong trinh hoa hoc sau", "ans": "SO2 vừa thể hiện tính oxi hoá, vừa thể hiện tính khử." },
+  { "key": "cong thuc phan tu cho biet thong tin", "ans": "Thành phần nguyên tố và số lượng nguyên tử của mỗi nguyên tố." },
+  { "key": "he phan ung sau o trang thai", "ans": "[HI^2] / [HI2].[I2]" },
+  { "key": "phan ung nao sau day la sai", "ans": "Fe2O3 + 4H2SO4 đặc → Fe2(SO4)3 + SO2 + 4H2O." },
+  { "key": "chuan do 100,0 mL", "ans": "8,91 mL" },
+  { "key": "cach lam nao sau day la phuong phap ket tinh", "ans": "Thu đường kính từ nước mía." },
+  { "key": "theo thuyet cau tao hoa hoc", "ans": "CH3-O-CH-CH3." },
+  { "key": "mua acid la hien tuong nuoc mua co", "ans": "SO2 và NO2" },
+  { "key": "hinh sau bieu thi su phan li", "ans": "Chiều giảm dần lực acid của các HA: HY > HZ > HX" },
+  { "key": "pho hong ngoai la", "ans": "cấu tạo hợp chất hữu cơ." },
+  { "key": "theo thuyet bronsted", "ans": "(2), (5)" },
+  { "key": "cho can bang", "ans": "Phản ứng nghịch thu nhiệt, cân bằng dịch chuyển theo chiều thuận khi giảm nhiệt độ." },
+  { "key": "co bao nhieu phan ung trong do", "ans": "2" },
+  { "key": "mot ban hoc sinh thu khi", "ans": "Nước vôi." },
+  { "key": "ung dung nao sau day khong phai cua sulfur", "ans": "lưu hóa cao su." },
+  { "key": "hoc sinh a tien hanh thi nghiem dot chay", "ans": "Sản phẩm tạo thành sau bước 2 là muối iron (III) sulfide." },
+  { "key": "hop chat nay co bao nhieu nguyen tu", "ans": "7, 14" },
+  { "key": "cho day cac chat", "ans": "4" },
+  { "key": "co 4 dung dich", "ans": "C2H5OH < CH3COOH < NaCl < K2SO4." },
+  { "key": "phan ung chuyen hoa hydrogen sulfide trong khi thien nhien", "ans": "7,06 gam" },
+  { "key": "trong so cac chat sau", "ans": "6" },
+  { "key": "phat bieu nao duoi day khong dung", "ans": "Hiệu suất phản ứng thuận nghịch có thể đạt đến 100%" },
+  { "key": "trong phan ung nao sau day su tang ap suat se dan toi can bang chuyen dich sang trai", "ans": "CaCO3(s) ⇌ CaO(s) + CO2(g)" },
+  { "key": "hang so can bang kc cua mot phan ung phu thuoc vao yeu to nao", "ans": "Nhiệt độ" },
+  { "key": "phuong trinh dien li nao sau day bieu dien khong dung", "ans": "HF ⟶ H+ + F-" },
+  { "key": "dung dich chat nao sau day co cung nong do dan dien tot nhat", "ans": "K2SO4" },
+  { "key": "do ph cua mot coc nuoc chanh duoc gia tri ph bang 24 nhan dinh nao sau day khong dung", "ans": "Nồng độ ion H+ của nước chanh là 0,24 mol/L" },
+  { "key": "khi lam thi nghiem voi hno3 dac nong trong ong nghiem thuong sinh ra khi no2 rat doc", "ans": "Xút (NaOH)" },
+  { "key": "phan ung nao sau day duoc dung de dieu che so2 trong cong nghiep", "ans": "4FeS2 + 11O2 -> 2Fe2O3 + 8SO2" },
+  { "key": "cach pha loang dung dich h2so4 dac nao sau day dung", "ans": "Rót từ từ acid vào nước và khuấy đều" },
+  { "key": "cho so do phan ung fe h2so4 fe2so43 so2 h2o so phan tu h2so4 bi khu", "ans": "3 và 3" },
+  { "key": "nhom chat nao duoi day deu la dan xuat cua hydrocarbon", "ans": "CH2Cl2, CH2Br−CH2Br, CHCl3, CH3COOCH3..." },
+  { "key": "phuong phap dung de du doan su co mat cua cac nhom chuc", "ans": "phương pháp phổ hồng ngoại" },
+  { "key": "phuong phap nao sau day duoc ung dung de ngam ruou thuoc", "ans": "Chiết lỏng – rắn" },
+  { "key": "phat bieu nao sau day dung cong thuc don gian nhat cua hop chat huu co", "ans": "Công thức biểu thị tỉ lệ tối giản về số nguyên tử..." },
+  { "key": "sucrose la loai duong duoc tao thanh tu mot glucose va fructose", "ans": "Công thức đơn giản nhất của sucrose là CH3O" },
+  { "key": "cap chat nao duoi day la dong dang cua nhau", "ans": "CH3OH và CH3CH2CH2CH2OH" },
+  { "key": "nhan dinh nao sau day khong dung", "ans": "CH3CH=O và CH3COCH3 là những aldehyde" },
+  { "key": "phat bieu nao sau day ve phan ung o trang thai can bang la khong dung", "ans": "Nồng độ của các chất phản ứng bằng nồng độ của các chất sản phẩm." },
+  { "key": "doi voi phan ung sau can bang se bi anh huong nhu the nao khi tang nhiet do", "ans": "Cân bằng chuyển dịch sang trái." },
+  { "key": "cac dung dich acid base muoi dan dien duoc la do", "ans": "các ion trái dấu." },
+  { "key": "so chat thuoc loai chat dien li manh la", "ans": "5" },
+  { "key": "trong cac dung dich co cung nong do 01 m sau day dung dich nao co ph cao nhat", "ans": "NaOH." },
+  { "key": "mot mau nuoc thai cua nha may san xuat co", "ans": "2,8 gam" },
+  { "key": "sulfur the hien tinh oxi hoa khi tac dung voi chat nao duoi day", "ans": "Al." },
+  { "key": "nho dung dich h2so4 98 vao coc dung duong saccharose", "ans": "Đường hoá màu đen." },
+  { "key": "dan khi so2 vao 100 ml dung dich kmno4 002m", "ans": "124 mL." },
+  { "key": "vi sao co the dua vao nhom chuc de phan loai cac hop chat huu co", "ans": "Vì nhóm chức gây ra các phản ứng hoá học đặc trưng cho phân tử hữu cơ." },
+  { "key": "so phat bieu dung la", "ans": "5" },
+  { "key": "phuong phap tach va tinh che nao sau day khong dung cach lam", "ans": "Thu tinh dầu cam từ vỏ cam là kết tinh" },
+  { "key": "khong the cho ta biet", "ans": "Cấu trúc phân tử hợp chất hữu cơ." },
+  { "key": "so nguyen tu h trong hop chat huu co nao sau day khong dung", "ans": "C2H8." },
+  { "key": "cau tao hoa hoc la giua cac nguyen tu trong phan tu", "ans": "thứ tự liên kết." },
+  { "key": "nhung cap chat la dong phan cua nhau", "ans": "(1) và (2); (3) và (4)." },
+  { "key": "bieu thuc hang so can bang kc cua phan ung la", "ans": "Kc = [CO]^2 / [O2]" },
+  { "key": "yeu to nao sau day khong lam dich chuyen can bang hoa hoc tren", "ans": "Thêm xúc tác." },
+  { "key": "khi x la chat khi khong mau khong mui nhe hon khong khi", "ans": "N2." },
+  { "key": "hien tuong phu duong la mot bieu hien cua moi truong ao ho", "ans": "Nitrogen, phosphorus" },
+  { "key": "kim loai nao sau day bi thu dong trong dung dich hno3 dac nguoi", "ans": "Fe." },
+  { "key": "sulfur phan ung voi chat nao sau day the hien tinh khu", "ans": "Khí oxygen (O2)." },
+  { "key": "cach xu ly thuy ngan khi nhiet ke thuy ngan khong may bi vo", "ans": "rắc bột sulfur lên thủy ngân rồi gom lại." },
+  { "key": "phat bieu nao sau day dung ve so2", "ans": "SO2 vừa thể hiện tính oxi hoá, vừa thể hiện tính khử." },
+  { "key": "hien tuong dung nham xanh", "ans": "Sulfur." },
+  { "key": "hay cho biet chat nao sau day la dong phan loai nhom chuc voi ethanol", "ans": "Dimethyl ether (CH3-O-CH3)." },
+  { "key": "hop chat huu co x co cong thuc cau tao nhu sau", "ans": "Phân tử X có chứa nhóm chức -COOH." },
+  { "key": "nguoi ta da su dung cac ki thuat tinh che nao de lay duoc curcumin tu cu nghe", "ans": "Chiết và kết tinh." },
+  { "key": "day nao gom cac chat la dong dang cua nhau", "ans": "CH3-CH2-OH và CH3-CH2-CH2-OH." },
+  { "key": "phuong phap nay duoc goi la", "ans": "kết tinh." },
+  { "key": "de tach dau va nuoc bien ra khoi nhau nguoi ta dung phuong phap", "ans": "Chiết lỏng - lỏng." },
+  { "key": "khi so2 do cac nha may sinh ra la nguyen nhan quan trong nhat", "ans": "X." },
+  { "key": "day chat nao sau day la hop chat huu co", "ans": "C2H4, CH4, C2H6O, C3H9N." },
+  { "key": "dua vao pho ir cua hop chat x co cong thuc ch3chohch3", "ans": "A" },
+  { "key": "phuong phap chiet duoc thuc hien theo nguyen tac", "ans": "Mỗi chất có sự phân bố khác nhau trong hai môi trường không hoà tan vào nhau." },
+  { "key": "phan tu khoi cua benzaldehyde la", "ans": "106." },
+  { "key": "cac chat dong dang cua nhau la", "ans": "Y, T (C6H5CH2OH và C6H5CH2CH2OH)" },
+  { "key": "hai chat", "type": "TF", "ans": [ "Nếu có hình:", "Công thức phân tử giống nhau nhưng công thức cấu tạo khác nhau.", "", "Không có hình:", "SO2 và NO2" ] },
+  { "key": "chon cau dung", "type": "TF", "ans": [ "Nếu TN:", "Dung dịch có pH >7 làm quỳ tím hoá xanh.", "Nếu Đ/S", "- Cùng công thức phân tử, các nguyên tử liên kết với nhau theo đúng hóa trị nhưng thứ tự liên kết giữa các nguyên tử khác nhau sẽ tạo ra hợp chất khác nhau. (ĐÚNG)" ] },
+  { "key": "khi ammonia co cac dac diem sau", "type": "TF", "ans": [ "- Trong điều kiện thường, NH3 là khí không màu, mùi khai. (ĐÚNG)", "- Liên kết giữa N và 3 nguyên tử H là liên kết cộng hoá trị có cực. (ĐÚNG)" ] },
+  { "key": "nguoi ta thuong dung cac binh thep de dung va chuyen cho sulfuric acid dac", "type": "TF", "ans": [ "- Sulfuric acid đặc không phản ứng với iron ở nhiệt độ thường. (ĐÚNG)" ] },
+  { "key": "chiet tinh dau tram", "type": "TF", "ans": [ "- Chiết tinh dầu áp dụng phương pháp chiết lỏng – lỏng. (ĐÚNG)", "- Tách lấy chất hữu cơ khi nó ở dạng nhũ tương trong nước. (ĐÚNG)", "- Tinh dầu sả, tinh dầu bưởi cũng được thực hiện tương tự như tinh dầu tràm. (ĐÚNG)" ] },
+  { "key": "cho cac chat sau ch3oh methanol ch3ch2oh a", "type": "TF", "ans": [ "- HOCH2CH2CH2OH thuộc dãy đồng đẳng của (h). (ĐÚNG)", "- Các chất (a), (b), (c), (d), (e), (g) thuộc dãy đồng đẳng của methanol." ] },
+  { "key": "o dieu kien thuong ammonia la chat khi khong mau mui khai", "type": "TF", "ans": [ "- Do ammonia dễ hoá lỏng hơn nên khi làm lạnh hỗn hợp sẽ tách được ammonia lỏng... (ĐÚNG)" ] },
+  { "key": "sulfuric acid h2so4 duoc menh danh la vua", "type": "TF", "ans": [ "- Sulfuric acid đặc là một acid mạnh, có tính oxi hóa mạnh và tính hóa nước. (ĐÚNG)", "- Các khí sinh ra trong thí nghiệm phản ứng của saccharose... gồm SO2 và CO2. (ĐÚNG)" ] },
+  { "key": "them hexane c6h14 vao dung dich iodine trong nuoc", "type": "TF", "ans": [ "- Sử dụng phương pháp chiết lỏng – lỏng để thu lấy iodine... (ĐÚNG)", "- Nồng độ iodine trong nước thấp hơn nồng độ iodine trong hexane. (ĐÚNG)" ] },
+  { "key": "buta13diene la mot hydrocarbon quan trong", "type": "TF", "ans": [ "- Buta-1,3-diene là một hydrocarbon không no, mạch hở. (ĐÚNG)", "- CTCT của buta-1,3-diene là CH2=CH-CH=CH2. (ĐÚNG)", "- CTPT của buta-1,3-diene là C4H6. (ĐÚNG)" ] },
+  { "key": "menthol la hop chat huu co duoc tim thay trong cay bac ha", "type": "TF", "ans": [ "- Công thức phân tử của menthol là C10H20O. (ĐÚNG)", "- Thành phần % khối lượng của O trong phân tử menthol là 10,256%. (ĐÚNG)" ] },
+  { "key": "sulfuric acid la hoa chat rat quan trong co hoat tinh hoa hoc rat manh", "type": "TF", "ans": [ "- Cho thanh Fe (iron) vào dung dịch H2SO4 loãng, iron tan ra, sủi bọt khí (ĐÚNG)", "- Cho từng giọt sulfuric acid đặc vào đường saccharose... (ĐÚNG)" ] },
+  { "key": "cac acid nhu acetic acid trong giam an", "type": "TF", "ans": [ "- Acetic acid là chất điện li yếu. (ĐÚNG)", "- Dung dịch acetic acid có pH < 7. (ĐÚNG)", "- ... Để khử sạch ammonia có thể dùng acetic acid... (ĐÚNG)" ] },
+  { "key": "chung cat loi cuon hoi nuoc cay huong nhu", "type": "TF", "ans": [ "- Tổng số nguyên tử trong phân tử X là 24. (ĐÚNG)" ] },
+  { "key": "x la muoi khi tac dung voi dung dich naoh du sinh khi mui khai", "type": "TF", "ans": [ "- (NH4)2SO4. (ĐÚNG)" ] },
+  { "key": "cho cac phat bieu sau", "type": "TF", "ans": [ "- Sử dụng phương pháp kết tinh để làm đường cát... (ĐÚNG)", "- Để thu được tinh dầu sả người ta dùng phương pháp chưng cất lôi cuốn hơi nước. (ĐÚNG)", "- Để tách các chất lỏng có nhiệt độ sôi khác nhau nhiều, người ta dùng cách chưng cất thường. (ĐÚNG)", "- Mật ong để lâu thường có những hạt rắn xuất hiện ở đáy chai do có sự kết tinh đường. (ĐÚNG)", "Hoặc", "- Đường trắng tinh khiết hơn đường đỏ. (ĐÚNG)", "- Tinh chế đường đỏ thành đường trắng là phương pháp kết tinh. (ĐÚNG)" ] },
+  { "key": "mentol c10h20o va menton c10h18o chung deu co trong tinh dau bac ha", "type": "TF", "ans": [ "- Mentol có cấu tạo mạch vòng. (ĐÚNG)", "- Mentol và menton đều có công thức phân tử trùng với công thức thực nghiệm." ] },
+  { "key": "cho hop chat x co cong thuc cau tao dang khung phan tu nhu sau", "type": "TF", "ans": [ "- Công thức phân tử của (X) là C4H8O.", "- % khối lượng của nguyên tử H trong (X) là 11,1%." ] },
+  { "key": "cho so do mo ta qua trinh san xuat loai phan bon z", "type": "TF", "ans": [ "- (Z) thuộc loại phân đạm. (ĐÚNG)" ] },
+  { "key": "trai cay tuoi cat san va dong goi co thoi han su dung ngan", "type": "TF", "ans": [ "- Loại rau quả tươi ở trong bảng được đóng gói với hỗn hợp khí có thành phần N2 giống với không khí nhất là cần tây. (ĐÚNG - Cần tây 11% O2, 9% CO2 -> 80% N2. KK ~78% N2)" ] },
+  { "key": "cho qua trinh tinh che duong do thanh duong trang", "type": "TF", "ans": [ "- Đường trắng tinh khiết hơn đường đỏ. (ĐÚNG)", "- Tinh chế đường đỏ thành đường trắng là phương pháp kết tinh. (ĐÚNG)" ] },
+  { "key": "co bao nhieu chat phan ung duoc voi nh3", "type": "SA", "ans": "5" },
+  { "key": "phan tram khoi luong mg trong hon hop x la bao nhieu", "type": "SA", "ans": "60" },
+  { "key": "cong thuc don gian nhat cua glyoxal co bao nhieu nguyen tu h", "type": "SA", "ans": "1" },
+  { "key": "so dong phan cau tao mach ho ung voi cong thuc phan tu c5h12 la", "type": "SA", "ans": "3" },
+  { "key": "hieu suat phan ung dat 25 thi the tich nh3 thu duoc", "type": "SA", "ans": "2,48" },
+  { "key": "gia tri cua v la lam tron ket qua den hang phan muoi", "type": "SA", "ans": "9,9" },
+  { "key": "tong so nguyen tu trong phan tu cua vitamin c la", "type": "SA", "ans": "20" },
+  { "key": "so lien ket doi trong phan tu licopen la", "type": "SA", "ans": "13" },
+  { "key": "tinh the tich ml dung dich h2so4 98", "type": "SA", "ans": "1,36" },
+  { "key": "tong so nguyen tu c h o trong 1 phan tu diethyl ether la bao nhieu", "type": "SA", "ans": "15" },
+  { "key": "so hop chat huu co thuoc loai dan xuat cua hydrocarbon la bao nhieu", "type": "SA", "ans": "4" },
+  { "key": "gia tri cua v la lam tron ket qua thu duoc den hang phan tram", "type": "SA", "ans": "250" },
+  { "key": "cho dung dich naoh du vao 200 ml dung dich nh4no3 1m", "type": "SA", "ans": "4,96" },
+  { "key": "cho 2479 lit khi dkc so2 tac dung vua du voi h2s", "type": "SA",
+    "ans": "9,6" },
+  { "key": "tong so nguyen tu co trong mot phan tu formic acid la bao nhieu", "type": "SA", "ans": "4" },
+  { "key": "phan tram khoi luong cua nguyen tu oxygen trong safrol la bao nhieu", "type": "SA", "ans": "19,8" },
+  { "key": "tu 10m3 hon hop n2 va h2 ti le the tich 14", "type": "SA", "ans": "1,4" },
+  { "key": "cho 77 gam hon hop gom mg va zn tac dung vua du voi mot luong vua du voi dung dich h2so4", "type": "SA", "ans": "66,2" },
+  { "key": "phan tu khoi cua x la bao nhieu", "type": "SA", "ans": "76" },
+  { "key": "tong so nguyen tu trong phan tu cua geraniol la bao nhieu", "type": "SA", "ans": "29" }
 ]
